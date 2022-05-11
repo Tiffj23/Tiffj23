@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tiffj23
 - 👀 I’m interested in python automation
 - 🌱 I’m currently learning python and information security
-- 💞️ I’m looking to collaborate on automation security questionnaires
+- 💞️ I’m looking to collaborate on automating security questionnaires
 - 📫 How to reach me ... here or email 
 
 <!---
